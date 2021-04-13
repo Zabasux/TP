@@ -42,33 +42,4 @@ C'est dans cet optique là que j'ai voulu orienté ma carrière vers le DevOps, 
 
 ***
 
-# **PARTIE 2**
-
-## **ACTION A MENER POUR REALISER MES OBJECTIFS**
-
-### **TO DO List** 
-
-- [ ] Bien vérifier que j'ai tout compris à la fin de la journée. 
-- [ ] Refaire les TP afin de vérifier que je puisse les reproduire par la suite.
-- [ ] Être plus actif dans la réunion.
-- [ ] Continuer d'aider mes collégues sur les parties où je suis à l'aise (Système)
-- [ ] A définir au fur à mesure
-
-### **Liens et ressources**
-
-#### **Partie Elearning mis à disposition par Neo-Soft** 
-
-(lien à définir)
-
-#### **Liens d'apprentissage**
-
-- Codecombat:
-<https://codecombat.com/>
-
-# **PARTIE 3**
-
-## **Commentaires et notes personnelles**
-
-J'attendais depuis 1 moment une formation de ce type. Je comprend les enjeux sur la durée pour Neo-Soft mais je trouve que 4 mois est uen durée trop courte. 
-Cette formation va me permettre de poursuivre mon évolution de carrière. 
 
