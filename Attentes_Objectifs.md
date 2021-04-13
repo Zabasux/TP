@@ -65,5 +65,10 @@ C'est dans cet optique là que j'ai voulu orienté ma carrière vers le DevOps, 
 - Codecombat:
 <https://codecombat.com/>
 
+# **PARTIE 3**
 
+## **Commentaires et notes personnelles**
+
+J'attendais depuis 1 moment une formation de ce type. Je comprend les enjeux sur la durée pour Neo-Soft mais je trouve que 4 mois est uen durée trop courte. 
+Cette formation va me permettre de poursuivre mon évolution de carrière. 
 
