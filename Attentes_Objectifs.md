@@ -69,6 +69,9 @@ C'est dans cet optique là que j'ai voulu orienté ma carrière vers le DevOps, 
 
 ## **Commentaires et notes personnelles**
 
-J'attendais depuis 1 moment une formation de ce type. Je comprend les enjeux sur la durée pour Neo-Soft mais je trouve que 4 mois est uen durée trop courte. 
+J'attendais depuis 1 moment une formation de ce type. Je comprend les enjeux sur la durée pour Neo-Soft mais je trouve que 4 mois est une durée trop courte. 
 Cette formation va me permettre de poursuivre mon évolution de carrière. 
+
+## *Commentaire autres
+* Commentaire positionné pour gb0001
 
